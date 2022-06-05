@@ -1,2 +1,4 @@
 # layoutlmv2-practice
-Fine-tuning the layoutlmv2 model with the CORD and FUNSD datasets. For the AI Socratic Circles discussion group on computer vision.
+Code based on https://github.com/NielsRogge/Transformers-Tutorials/tree/master/LayoutLMv2.
+
+Modifications include combining both datasets and undersampling the FUNSD dataset so that they have similar numbers of labels.
